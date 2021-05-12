@@ -1,0 +1,16 @@
+C:\Users\Rodrigo\Desktop\Prog\.NET\.NET-Aulas\Ex01\bin\Debug\net5.0\Ex01.exe
+C:\Users\Rodrigo\Desktop\Prog\.NET\.NET-Aulas\Ex01\bin\Debug\net5.0\Ex01.deps.json
+C:\Users\Rodrigo\Desktop\Prog\.NET\.NET-Aulas\Ex01\bin\Debug\net5.0\Ex01.runtimeconfig.json
+C:\Users\Rodrigo\Desktop\Prog\.NET\.NET-Aulas\Ex01\bin\Debug\net5.0\Ex01.runtimeconfig.dev.json
+C:\Users\Rodrigo\Desktop\Prog\.NET\.NET-Aulas\Ex01\bin\Debug\net5.0\Ex01.dll
+C:\Users\Rodrigo\Desktop\Prog\.NET\.NET-Aulas\Ex01\bin\Debug\net5.0\ref\Ex01.dll
+C:\Users\Rodrigo\Desktop\Prog\.NET\.NET-Aulas\Ex01\bin\Debug\net5.0\Ex01.pdb
+C:\Users\Rodrigo\Desktop\Prog\.NET\.NET-Aulas\Ex01\obj\Debug\net5.0\Ex01.csprojAssemblyReference.cache
+C:\Users\Rodrigo\Desktop\Prog\.NET\.NET-Aulas\Ex01\obj\Debug\net5.0\Ex01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodrigo\Desktop\Prog\.NET\.NET-Aulas\Ex01\obj\Debug\net5.0\Ex01.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\Desktop\Prog\.NET\.NET-Aulas\Ex01\obj\Debug\net5.0\Ex01.AssemblyInfo.cs
+C:\Users\Rodrigo\Desktop\Prog\.NET\.NET-Aulas\Ex01\obj\Debug\net5.0\Ex01.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Desktop\Prog\.NET\.NET-Aulas\Ex01\obj\Debug\net5.0\Ex01.dll
+C:\Users\Rodrigo\Desktop\Prog\.NET\.NET-Aulas\Ex01\obj\Debug\net5.0\ref\Ex01.dll
+C:\Users\Rodrigo\Desktop\Prog\.NET\.NET-Aulas\Ex01\obj\Debug\net5.0\Ex01.pdb
+C:\Users\Rodrigo\Desktop\Prog\.NET\.NET-Aulas\Ex01\obj\Debug\net5.0\Ex01.genruntimeconfig.cache

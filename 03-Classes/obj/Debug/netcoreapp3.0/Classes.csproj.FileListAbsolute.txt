@@ -1,0 +1,13 @@
+C:\Users\Rodrigo\Desktop\Prog\.NET\.NET-Aulas\03-Classes\bin\Debug\netcoreapp3.0\Classes.exe
+C:\Users\Rodrigo\Desktop\Prog\.NET\.NET-Aulas\03-Classes\bin\Debug\netcoreapp3.0\Classes.deps.json
+C:\Users\Rodrigo\Desktop\Prog\.NET\.NET-Aulas\03-Classes\bin\Debug\netcoreapp3.0\Classes.runtimeconfig.json
+C:\Users\Rodrigo\Desktop\Prog\.NET\.NET-Aulas\03-Classes\bin\Debug\netcoreapp3.0\Classes.runtimeconfig.dev.json
+C:\Users\Rodrigo\Desktop\Prog\.NET\.NET-Aulas\03-Classes\bin\Debug\netcoreapp3.0\Classes.dll
+C:\Users\Rodrigo\Desktop\Prog\.NET\.NET-Aulas\03-Classes\bin\Debug\netcoreapp3.0\Classes.pdb
+C:\Users\Rodrigo\Desktop\Prog\.NET\.NET-Aulas\03-Classes\obj\Debug\netcoreapp3.0\Classes.csprojAssemblyReference.cache
+C:\Users\Rodrigo\Desktop\Prog\.NET\.NET-Aulas\03-Classes\obj\Debug\netcoreapp3.0\Classes.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\Desktop\Prog\.NET\.NET-Aulas\03-Classes\obj\Debug\netcoreapp3.0\Classes.AssemblyInfo.cs
+C:\Users\Rodrigo\Desktop\Prog\.NET\.NET-Aulas\03-Classes\obj\Debug\netcoreapp3.0\Classes.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Desktop\Prog\.NET\.NET-Aulas\03-Classes\obj\Debug\netcoreapp3.0\Classes.dll
+C:\Users\Rodrigo\Desktop\Prog\.NET\.NET-Aulas\03-Classes\obj\Debug\netcoreapp3.0\Classes.pdb
+C:\Users\Rodrigo\Desktop\Prog\.NET\.NET-Aulas\03-Classes\obj\Debug\netcoreapp3.0\Classes.genruntimeconfig.cache
